@@ -105,19 +105,6 @@ Performance-focused tools for systems, applications, and gaming.
 
 </div>
 
----
-
-## 🩸 Developer Philosophy
-
-<div align="center">
-
-> **"Don't just use the tools. Understand how they work."**
-
-<br>
-
-**Build. Break. Learn. Rebuild.**
-
-</div>
 
 ---
 
@@ -137,11 +124,6 @@ Performance-focused tools for systems, applications, and gaming.
 
 </div>
 
----
-
-<div align="center">
-
-### ⚡ ARISE.
 
 <br>
 

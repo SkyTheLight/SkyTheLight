@@ -126,7 +126,7 @@ Performance-focused tools for systems, applications, and gaming.
 
 
 <br>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=SkyTheLight&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" />
 
 <br><br>

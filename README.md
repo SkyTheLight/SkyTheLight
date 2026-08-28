@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SkyTheLight/SkyTheLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nico
 
-Here are some ideas to get you started:
+### Full-Stack Developer • AI Builder • Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a developer who enjoys building modern, fast, and polished
+web applications.
+
+I focus on:
+
+- ⚡ Performance
+- 🎨 Modern UI/UX
+- 🤖 AI-powered applications
+- 🧠 Clean architecture
+- 📱 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+💼 Open to interesting projects and collaborations.
+
+<div align="center">
+
+### ⭐ Let's build something awesome.
+
+</div>

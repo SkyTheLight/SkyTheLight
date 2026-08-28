@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=200&section=header&text=SkyTheLight&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:090014,100:3C096C&height=220&section=header&text=SKYTHELIGHT&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
 
-<h3>💻 Full-Stack Developer • AI Builder • Problem Solver</h3>
+<br>
 
-<p>
-Building modern applications, experimenting with AI, and turning ideas into reality.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%7C+Web+Development;Building+Something+Awesome;Always+Learning+%26+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Arise.;Full-Stack+Developer;AI+%7C+Web+Development;Building+Beyond+Limits" />
 
 </div>
 
@@ -16,18 +12,18 @@ Building modern applications, experimenting with AI, and turning ideas into real
 
 ## 👨‍💻 About Me
 
-Hi, I'm **SkyTheLight** — a Computer Science student who enjoys building full-stack applications, experimenting with AI, and creating useful tools.
+Hi, I'm **SkyTheLight** — a Computer Science student and developer who enjoys building modern applications, experimenting with AI, and turning ideas into working software.
 
-I like turning ideas into real, working projects — from web applications and AI systems to utilities and optimization tools.
+I like exploring different technologies, solving problems, and creating projects that are actually useful.
 
-✨ **What I focus on:**
+✨ **My focus:**
 
-* 🌐 Full-stack web development
-* 🤖 AI-integrated applications
-* ⚡ Performance & optimization
-* 🎨 Modern and responsive UI/UX
-* 🧠 Clean architecture & problem solving
-* 🛠️ Developer tools and utilities
+- 🌐 Full-stack web development
+- 🤖 AI-powered applications
+- ⚡ Performance & optimization
+- 🎨 Modern and responsive UI/UX
+- 🧠 Problem solving
+- 🛠️ Developer tools and utilities
 
 ---
 
@@ -55,21 +51,21 @@ I like turning ideas into real, working projects — from web applications and A
 
 ---
 
-## 🚀 What I Build
+## ⚔️ What I Build
 
 <div align="center">
 
-| 🤖 AI & Automation |    🌐 Full-Stack Apps   |
-| :----------------: | :---------------------: |
-| AI-powered systems | Modern web applications |
-|  Intelligent tools |  Responsive interfaces  |
-|     Automation     |     Backend systems     |
+🤖 **AI & Automation**  
+AI-powered applications, intelligent systems, and automation tools.
 
-| 🛠️ Developer Tools |    ⚡ Optimization    |
-| :-----------------: | :------------------: |
-| Utilities & scripts | Windows optimization |
-| Developer workflows |  Gaming optimization |
-|     Custom tools    |  Performance tuning  |
+🌐 **Full-Stack Applications**  
+Modern web applications with clean interfaces and powerful backends.
+
+🛠️ **Developer Tools**  
+Utilities, scripts, and tools designed to make development easier.
+
+⚡ **Optimization**  
+Performance-focused tools for systems, applications, and gaming.
 
 </div>
 
@@ -77,89 +73,49 @@ I like turning ideas into real, working projects — from web applications and A
 
 ## 📂 Featured Projects
 
+- 🤖 [**EzinOus-bot**](https://github.com/SkyTheLight/EzinOus-bot)  
+  Bot and automation project.
+
+- 🎓 [**Thesis — Loan Approval Prediction**](https://github.com/SkyTheLight/Thesis)  
+  Machine learning project focused on loan approval prediction.
+
+- 🪟 [**Adversity Windows 11 Debloater**](https://github.com/SkyTheLight/Adversity-w11-debloater)  
+  Windows optimization and debloating utility.
+
+- 🎮 [**CS2 Optimizer**](https://github.com/SkyTheLight/CS2-Optimizer)  
+  Optimization tools for Counter-Strike 2.
+
+- 🎯 [**AimSense Finder**](https://github.com/SkyTheLight/aimsense-finder)  
+  A project focused on aim-related configurations and tools.
+
+- 🧠 [**Nexus — The System**](https://github.com/SkyTheLight/Nexus-The-System)  
+  Experimental system project built with TypeScript.
+
+---
+
+## 🧠 Currently Learning
+
 <div align="center">
 
-### 🤖 EzinOus-bot
-
-A Python-based project focused on automation and bot functionality.
-
-**[→ View Project](https://github.com/SkyTheLight/EzinOus-bot)**
-
----
-
-### 🎓 Loan Approval Prediction
-
-A machine-learning thesis project focused on predicting loan approval outcomes.
-
-**[→ View Project](https://github.com/SkyTheLight/Thesis)**
-
----
-
-### 🪟 Adversity Windows 11 Debloater
-
-A PowerShell-based Windows utility focused on removing unnecessary components and optimizing the system.
-
-**[→ View Project](https://github.com/SkyTheLight/Adversity-w11-debloater)**
-
----
-
-### 🎮 CS2 Optimizer
-
-A Windows optimization tool focused on improving the Counter-Strike 2 experience.
-
-**[→ View Project](https://github.com/SkyTheLight/CS2-Optimizer)**
-
----
-
-### 🎯 AimSense Finder
-
-A TypeScript project focused on finding and working with aim-related configurations.
-
-**[→ View Project](https://github.com/SkyTheLight/aimsense-finder)**
-
----
-
-### 🧠 Nexus — The System
-
-A TypeScript-based system project exploring modern application development.
-
-**[→ View Project](https://github.com/SkyTheLight/Nexus-The-System)**
+🤖 Artificial Intelligence  
+🌐 Advanced Full-Stack Development  
+🧠 Machine Learning  
+⚡ Performance Engineering  
+🛠️ Developer Tooling
 
 </div>
 
 ---
 
-## 🧪 Currently Exploring
+## 🩸 Developer Philosophy
 
 <div align="center">
 
-🤖 **Artificial Intelligence**
+> **"Don't just use the tools. Understand how they work."**
 
-🌐 **Advanced Full-Stack Development**
+<br>
 
-⚡ **Performance Engineering**
-
-🧠 **Machine Learning**
-
-🛠️ **Developer Tooling**
-
-</div>
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<a href="https://github.com/SkyTheLight">
-
-<img src="https://img.shields.io/badge/GitHub-SkyTheLight-181717?style=for-the-badge&logo=github" />
-
-</a>
-
- 
-
-<img src="https://komarev.com/ghpvc/?username=SkyTheLight&style=for-the-badge&color=00DFD8&label=PROFILE+VIEWS" />
+**Build. Break. Learn. Rebuild.**
 
 </div>
 
@@ -169,13 +125,15 @@ A TypeScript-based system project exploring modern application development.
 
 <div align="center">
 
-💼 **Open to interesting projects, collaborations, and opportunities.**
+<a href="https://github.com/SkyTheLight">
+
+<img src="https://img.shields.io/badge/GitHub-SkyTheLight-181717?style=for-the-badge&logo=github" />
+
+</a>
 
 <br><br>
 
-<a href="https://github.com/SkyTheLight">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
+💼 Open to interesting projects, collaborations, and opportunities.
 
 </div>
 
@@ -183,12 +141,14 @@ A TypeScript-based system project exploring modern application development.
 
 <div align="center">
 
-### ⭐ Let's build something awesome.
+### ⚡ ARISE.
 
 <br>
 
-<sub>Built with curiosity, caffeine, and way too much debugging.</sub>
+<img src="https://komarev.com/ghpvc/?username=SkyTheLight&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:090014,100:3C096C&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer"/>

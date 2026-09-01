@@ -28,23 +28,18 @@ I like exploring different technologies, solving problems, and creating projects
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,powershell" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,powershell,cs" />
 
 ### ⚛️ Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,tailwind,threejs" />
 
 ### 🗄️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=supabase,mongodb" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,prisma,tauri" />
 
 ### 🔧 Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
